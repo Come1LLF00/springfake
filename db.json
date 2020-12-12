@@ -1,9 +1,54 @@
 {
-  "posts": [
+  "api/aunt/sign_in": {
+    "accessToken": "0123456789",
+    "refreshToken": "0123456789",
+  },
+  "api/aunt/register": {
+    "accessToken": "0123456789",
+    "refreshToken": "0123456789",
+  },
+  "/api/refresh/token": {
+    "accessToken": "0123456789",
+  },
+  "/main/app/add": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+      "x": 1,
+      "y": 1,
+      "r": 1,
+      "hit": true,
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "r": 4,
+      "hit": false,
+    },
+    {
+      "x": "-4",
+      "y": 0,
+      "r": 3,
+      "hit": false,
+    },
+  ],
+  "/main/app/dots/all": [
+    {
+      "x": 1,
+      "y": 1,
+      "r": 1,
+      "hit": true,
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "r": 4,
+      "hit": false,
+    },
+    {
+      "x": "-4",
+      "y": 0,
+      "r": 3,
+      "hit": false,
+    },
   ],
   "profile": {
     "name": "typicode"
