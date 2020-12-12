@@ -1,56 +1,56 @@
 {
-  "sign_in": {
-    "accessToken": "0123456789",
-    "refreshToken": "0123456789",
+  "sign_in":{
+    "accessToken":"0123456789",
+    "refreshToken":"0123456789"
   },
-  "register": {
-    "accessToken": "0123456789",
-    "refreshToken": "0123456789"
+  "register":{
+    "accessToken":"0123456789",
+    "refreshToken":"0123456789"
   },
-  "token": {
-    "accessToken": "0123456789"
+  "token":{
+    "accessToken":"0123456789"
   },
-  "add": [
+  "add":[
     {
-      "x": 1,
-      "y": 1,
-      "r": 1,
-      "hit": true
+      "x":1,
+      "y":1,
+      "r":1,
+      "hit":true
     },
     {
-      "x": 2,
-      "y": 2,
-      "r": 4,
-      "hit": false
+      "x":2,
+      "y":2,
+      "r":4,
+      "hit":false
     },
     {
-      "x": "-4",
-      "y": 0,
-      "r": 3,
-      "hit": false
+      "x":"-4",
+      "y":0,
+      "r":3,
+      "hit":false
     }
   ],
-  "all": [
+  "all":[
     {
-      "x": 1,
-      "y": 1,
-      "r": 1,
-      "hit": true
+      "x":1,
+      "y":1,
+      "r":1,
+      "hit":true
     },
     {
-      "x": 2,
-      "y": 2,
-      "r": 4,
-      "hit": false
+      "x":2,
+      "y":2,
+      "r":4,
+      "hit":false
     },
     {
-      "x": "-4",
-      "y": 0,
-      "r": 3,
-      "hit": false
+      "x":"-4",
+      "y":0,
+      "r":3,
+      "hit":false
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "profile":{
+    "name":"typicode"
   }
 }
