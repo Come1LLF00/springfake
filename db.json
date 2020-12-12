@@ -1,5 +1,5 @@
 {
-  "sign_in": {
+  "api/aunt/sign_in": {
     "accessToken":"0123456789",
     "refreshToken":"0123456789"
   },
