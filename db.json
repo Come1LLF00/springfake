@@ -1,16 +1,16 @@
 {
-  "api/aunt/sign_in": {
+  "sign_in": {
     "accessToken": "0123456789",
     "refreshToken": "0123456789",
   },
-  "api/aunt/register": {
+  "register": {
     "accessToken": "0123456789",
     "refreshToken": "0123456789",
   },
-  "/api/refresh/token": {
+  "token": {
     "accessToken": "0123456789",
   },
-  "/main/app/add": [
+  "add": [
     {
       "x": 1,
       "y": 1,
@@ -30,7 +30,7 @@
       "hit": false,
     },
   ],
-  "/main/app/dots/all": [
+  "all": [
     {
       "x": 1,
       "y": 1,
