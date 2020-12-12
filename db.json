@@ -5,50 +5,50 @@
   },
   "register": {
     "accessToken": "0123456789",
-    "refreshToken": "0123456789",
+    "refreshToken": "0123456789"
   },
   "token": {
-    "accessToken": "0123456789",
+    "accessToken": "0123456789"
   },
   "add": [
     {
       "x": 1,
       "y": 1,
       "r": 1,
-      "hit": true,
+      "hit": true
     },
     {
       "x": 2,
       "y": 2,
       "r": 4,
-      "hit": false,
+      "hit": false
     },
     {
       "x": "-4",
       "y": 0,
       "r": 3,
-      "hit": false,
-    },
+      "hit": false
+    }
   ],
   "all": [
     {
       "x": 1,
       "y": 1,
       "r": 1,
-      "hit": true,
+      "hit": true
     },
     {
       "x": 2,
       "y": 2,
       "r": 4,
-      "hit": false,
+      "hit": false
     },
     {
       "x": "-4",
       "y": 0,
       "r": 3,
-      "hit": false,
-    },
+      "hit": false
+    }
   ],
   "profile": {
     "name": "typicode"
