@@ -10,6 +10,9 @@
   "token": {
     "accessToken":"0123456789"
   },
+  "hit": {
+    hit: true
+  },
   "all": [
     {
       "date": "2020-12-13T00:12:33.694Z",
