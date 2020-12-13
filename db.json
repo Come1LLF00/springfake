@@ -11,7 +11,7 @@
     "accessToken":"0123456789"
   },
   "hit": {
-    hit: true
+    "hit": true
   },
   "all": [
     {
